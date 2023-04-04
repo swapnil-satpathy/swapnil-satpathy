@@ -1,4 +1,4 @@
-<h1>Hi there, I'm Swapnil Satpathy <img src="https://i.imgur.com/veZrcC7.gif" alt="Meaow" width="50" /> </h1>
+<h1>Hi there, I'm Swapnil Satpathy <img src="https://i.stack.imgur.com/KjmLu.gif" alt="Meaow" width="50" /> </h1>
 
 <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">   
 
